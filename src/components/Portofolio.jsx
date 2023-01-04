@@ -46,8 +46,8 @@ const Portofolio = () => {
                 <div className='w-1/2 px-6 py-3 duration-200'>Portofolio</div>
                 <img src={portofolioMe} alt="" className='rounded-md duration-200 hover:scale-105'/>
                 <div className='flex items-center justify-center'>
-                    <button className='w-1/2 px-6 py-3 duration-200 hover:scale-105'>Demo</button>
-                    <button className='w-1/2 px-6 py-3 duration-200 hover:scale-105'>Code</button>
+                    <a href='https://main--transcendent-bombolone-d6381c.netlify.app/' className='w-1/2 px-6 py-3 duration-200 hover:scale-105'>Demo</a>
+                    <a href='https://github.com/DianaMariaa98/di-react-portofolio' className='w-1/2 px-6 py-3 duration-200 hover:scale-105'>Code</a>
                 </div>
             </div>
 
