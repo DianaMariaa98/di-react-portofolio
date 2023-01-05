@@ -21,6 +21,12 @@
         padding-top: 90vw;
     }
     .expSection{
+        padding-top: 40vw;
+    }
+    .homeSec{
+        padding-top: 20vw;
+    }
+    .contSection{
         padding-top: 20vw;
     }
 }
